@@ -83,8 +83,6 @@ Feel free to reach out if you want to collaborate on a project, discuss technolo
 
 ### 📊 My GitHub Stats
 
-*(Remember to replace `YourGitHubUsername` with your actual GitHub username below)*
-
 [![Võ Ngọc Nguyên Chương's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chuong1210&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/chuong1210)
 
 [![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=chuong1210&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/chuong1210)
