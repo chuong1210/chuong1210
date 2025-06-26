@@ -74,7 +74,7 @@ I'm always looking to expand my skillset. Currently, I'm focusing on deepening m
 
 ### 📫 Get In Touch
 
-*   **Email:** [chuonbd1012@gmail.com](mailto:chuonbd1012@gmail.com)
+*   **Email:** [chuonbd1012@gmail.com](mailto:chuongbd1012@gmail.com)
 
 
 Feel free to reach out if you want to collaborate on a project, discuss technology, or just connect!
