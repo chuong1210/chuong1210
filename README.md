@@ -75,6 +75,6 @@ I love building **robust, scalable, and innovative applications** — from web &
 ## 📫 Contact Me
 - **Email:** [chuongbd1012@gmail.com](mailto:chuongbd1012@gmail.com)
 - **GitHub:** [github.com/chuong1210](https://github.com/chuong1210)
-- **LinkedIn:** [https://www.linkedin.com/in/vo-ngoc-nguyen-chuong-6baa80283](https://www.linkedin.com/in/vo-ngoc-nguyen-chuong-6baa80283)
+- **LinkedIn:** [linkedin.com/vo-ngoc-nguyen-chuong](https://www.linkedin.com/in/vo-ngoc-nguyen-chuong-6baa80283)
 
 💡 *Always open to collaborating on exciting projects and sharing knowledge with the community!*
