@@ -108,12 +108,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=chuong1210&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=b8860b&icon_color=d4a843&text_color=c9d1d9" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuong1210&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=b8860b&text_color=c9d1d9" />
+  <a href="https://github.com/chuong1210">
+    <img height="180" src="https://github-readme-stats-one-rho-67.vercel.app/api?username=chuong1210&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=b8860b&icon_color=d4a843&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/chuong1210">
+    <img height="180" src="https://github-readme-stats-one-rho-67.vercel.app/api/top-langs/?username=chuong1210&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=b8860b&text_color=c9d1d9" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=chuong1210&theme=dark&hide_border=true&background=0D1117&ring=B8860B&fire=D4A843&currStreakLabel=D4A843&sideLabels=C9D1D9&dates=6B5F52" />
+  <img src="https://github-readme-streak-stats-liart-pi.vercel.app?user=chuong1210&theme=dark&hide_border=true&background=0D1117&ring=B8860B&fire=D4A843&currStreakLabel=D4A843&sideLabels=C9D1D9&dates=6B5F52" />
 </p>
 
 ---
