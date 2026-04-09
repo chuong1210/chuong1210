@@ -4,15 +4,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1500&color=B8860B&center=true&vCenter=true&width=800&lines=AI+%2F+Computer+Vision+Engineer;Backend+Developer+%7C+.NET+%2F+C%23;Building+scalable+systems+%26+intelligent+AI" alt="Typing SVG" />
 </a>
 
-> **Bridging the gap between complex AI research and production-ready backend systems.**
+🎓 **IT @ HUIT** · GPA 3.6/4.0 · 📍 Ho Chi Minh City, Vietnam
 
-```yaml
-name:      Vo Ngoc Nguyen Chuong
-location:  Ho Chi Minh City, Vietnam
-education: Information Technology @ HUIT (GPA: 3.6/4.0)
-role:      Fullstack / Backend Developer @ Martech Boiler JSC
-focus:     [ ".NET Microservices", "Computer Vision", "AI Agents", "RAG Pipelines" ]
-```
+🏢 Currently **Fullstack / Backend Developer** @ Martech Boiler JSC
+
+> Bridging the gap between complex AI research and production-ready backend systems —
+> from **.NET microservices** with Kafka & Redis to **YOLOv12** object detection and **RAG** pipelines.
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nguyen--chuong.vercel.app-b8860b?style=for-the-badge)](https://nguyen-chuong.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vo-ngoc-nguyen-chuong-6baa80283)
